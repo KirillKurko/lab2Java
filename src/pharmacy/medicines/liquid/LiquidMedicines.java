@@ -30,7 +30,7 @@ abstract public class LiquidMedicines extends Medicine {
 
     @Override
     protected String generateType() {
-        return "liquid medicines";
+        return "liquid";
     }
 
     @Override

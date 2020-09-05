@@ -30,7 +30,7 @@ abstract public class SolidMedicines extends Medicine {
 
     @Override
     protected String generateType() {
-        return "solid medicines";
+        return "solid";
     }
 
     @Override
