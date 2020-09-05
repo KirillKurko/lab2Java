@@ -73,6 +73,6 @@ abstract public class Medicine implements PriceInterface {
 
     @Override
     public String toString() {
-        return "\nName: " + name + "\nType: " + type + "\nprice: " + price;
+        return "\nName: " + name + "\nType: " + type + "\nPrice: " + price;
     }
 }
