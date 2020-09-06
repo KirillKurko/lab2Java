@@ -6,8 +6,8 @@ import pharmacy.medicines.Medicine;
 
 public class Order implements PriceInterface {
     private List<Medicine> medicines;
-    private int cost;
-    private int price;
+    private float cost;
+    private float price;
     private static int ordersNumber = 0;
 
     public Order() {
@@ -28,11 +28,11 @@ public class Order implements PriceInterface {
         return price;
     }
 
-    public void printOrderInformation() {
+    public void printInformation() {
         for (Medicine medicine: medicines) {
-            System.out.println("\n" + medicine);
+            System.out.println(medicine);
         }
-        System.out.println("\n\n\nTotal information");
+        System.out.println("\n\n\nTotal information:");
         System.out.println("Cost: " + cost + "\nPrice: " + price);
     }
 
