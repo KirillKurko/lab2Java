@@ -3,6 +3,7 @@ package pharmacy.medicines.soft;
 import pharmacy.medicines.Medicine;
 
 public class SoftMedicines extends Medicine {
+
     protected int weight;
 
     public SoftMedicines() {

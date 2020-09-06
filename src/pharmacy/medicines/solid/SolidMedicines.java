@@ -3,6 +3,7 @@ package pharmacy.medicines.solid;
 import pharmacy.medicines.Medicine;
 
 public class SolidMedicines extends Medicine {
+
     protected int amount;
 
     public SolidMedicines() {

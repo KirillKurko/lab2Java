@@ -8,6 +8,7 @@ import pharmacy.order.Order;
 public class Main {
 
     public static void main(String[] args) {
+
         Order order = new Order();
 
         Capsules capsules = new Capsules("Creon", 12.99f, 60, "solid");

@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f7b80c2-41eb-4102-860f-e288ce2d3205" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pharmacy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pharmacy/PriceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/PriceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pharmacy/medicines/liquid/Drops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/medicines/liquid/Drops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pharmacy/medicines/liquid/LiquidMedicines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/medicines/liquid/LiquidMedicines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pharmacy/medicines/soft/Ointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/medicines/soft/Ointment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pharmacy/medicines/soft/SoftMedicines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/medicines/soft/SoftMedicines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pharmacy/medicines/solid/Capsules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/medicines/solid/Capsules.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pharmacy/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/order/Order.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,7 +89,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -3,6 +3,7 @@ package pharmacy.medicines.solid;
 import java.util.Objects;
 
 public class Capsules extends SolidMedicines {
+
     private String shellType;
     private static int count = 0;
     private int id;

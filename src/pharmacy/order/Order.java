@@ -5,6 +5,7 @@ import pharmacy.PriceInterface;
 import pharmacy.medicines.Medicine;
 
 public class Order implements PriceInterface {
+
     private List<Medicine> medicines;
     private float cost;
     private float price;

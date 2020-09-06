@@ -3,6 +3,7 @@ package pharmacy.medicines.liquid;
 import pharmacy.medicines.Medicine;
 
 public class LiquidMedicines extends Medicine {
+
     protected int volume;
 
     public LiquidMedicines() {

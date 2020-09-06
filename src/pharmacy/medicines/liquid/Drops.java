@@ -3,6 +3,7 @@ package pharmacy.medicines.liquid;
 import java.util.Objects;
 
 public class Drops extends  LiquidMedicines {
+
     private String applicationMode;
     private static int count = 0;
     private int id;

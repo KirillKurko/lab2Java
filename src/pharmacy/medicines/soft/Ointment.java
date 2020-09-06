@@ -3,6 +3,7 @@ package pharmacy.medicines.soft;
 import java.util.Objects;
 
 public class Ointment extends SoftMedicines {
+
     private String consistency;
     private static int count = 0;
     private int id;
