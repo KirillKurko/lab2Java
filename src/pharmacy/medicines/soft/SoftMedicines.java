@@ -2,7 +2,7 @@ package pharmacy.medicines.soft;
 
 import pharmacy.medicines.Medicine;
 
-abstract public class SoftMedicines extends Medicine {
+public class SoftMedicines extends Medicine {
     protected int weight;
 
     public SoftMedicines() {

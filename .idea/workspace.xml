@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pharmacy/medicines/liquid/LiquidMedicines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/medicines/liquid/LiquidMedicines.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pharmacy/medicines/soft/SoftMedicines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/medicines/soft/SoftMedicines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pharmacy/medicines/solid/Capsules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/medicines/solid/Capsules.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pharmacy/medicines/solid/SolidMedicines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pharmacy/medicines/solid/SolidMedicines.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,6 +66,16 @@
       <updated>1599300563221</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
